@@ -14,16 +14,14 @@ post_date: 2018-02-10 15:07:15
 <div>
 <pre><code class="python">Country =['NEPAL','INDIA','USA','GERMANY','UK','AUSTRALIA']
 
-Temperature =[22, 44, 28, 20, 18, 25, 45, 67]</code>
-
-
-</pre>
+Temperature =[22, 44, 28, 20, 18, 25, 45, 67]</code></pre>
 We just created two lists, one for Country names (strings) and another one for Temperature data (whole numbers).
 <h4>Accessing individual elements of a list</h4>
 <ul>
  	<li>Individual elements of a list can be accessed by writing an index number in square bracket. The first index of a list starts with 0 (zero) not 1. For example, Country[0] can be used to access the first element, 'INDIA'</li>
  	<li>A range of elements can be accessed by using start index and end index but it does not return the value of the end index. For example, Temperature[1:4] returns three elements, the second through fourth elements [28, 20, 18], but not the fifth element</li>
 </ul>
+<h2>Tasks</h2>
 <strong># Create a list of squared numbers</strong>
 squares_list = [0, 1, 4, 9, 16, 25]
 
