@@ -23,13 +23,7 @@ It is human–computer interaction by which a computer is expected to be transpo
 
 <img class="size-medium wp-image-469 alignleft" src="https://datasagar.com/wp-content/uploads/2018/02/Cyber-Essentials-Controls-Boundary-Firewall-Internet-Gateway-300x175.jpg" alt="" width="300" height="175" />
 
-allows for transmission of data, voice and video. Mobile computing involves mobile communication, mobile
-
-&nbsp;
-
-hardware, and mobile software. Communication issues include ad hoc networks and infrastructure
-
-&nbsp;
+allows for transmission of data, voice and video. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc networks and infrastructure
 
 networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
 
