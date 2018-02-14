@@ -1,6 +1,6 @@
 ---
 ID: 472
-post_title: 'What Are Information Systems &#038; Business Information System?'
+post_title: 'What Is Information System &#038; Business Information System? &#8211; Definitions'
 author: datasagar
 post_excerpt: ""
 layout: post
