@@ -184,3 +184,7 @@ Research approaches includes:
 <img class="alignnone wp-image-490" src="https://datasagar.com/wp-content/uploads/2018/02/TABLE-12_2-Strategic-application-of-an-MkIS-300x241.jpg" alt="" width="453" height="323" />
 
 &nbsp;
+
+&nbsp;
+
+Featured Image Source: https://bertinaco.com/5-reasons-organic-rankings-arent-the-only-factor-of-seo-success/
