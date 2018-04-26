@@ -1,7 +1,7 @@
 ---
 ID: 4
 post_title: 'What is data ? &#8211; Simple Definition'
-author: datasagar
+author: Sagar Pyakurel
 post_excerpt: ""
 layout: post
 permalink: >
