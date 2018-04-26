@@ -5,9 +5,9 @@ author: datasagar
 post_excerpt: ""
 layout: post
 permalink: >
-  https://datasagar.com/2018/02/14/marketing-information-systemmkis-definition-components-and-applications/
+  https://datasagar.com/2018/01/14/marketing-information-systemmkis-definition-components-and-applications/
 published: true
-post_date: 2018-02-14 14:24:08
+post_date: 2018-01-14 14:24:08
 ---
 <strong>Detailed Introduction of Marketing Information System (MkIS)</strong>
 <ul>
