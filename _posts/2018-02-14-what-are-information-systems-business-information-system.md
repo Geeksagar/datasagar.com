@@ -1,7 +1,7 @@
 ---
 ID: 472
 post_title: 'What Is Information System &#038; Business Information System? &#8211; Definitions'
-author: datasagar
+author: Sagar Pyakurel
 post_excerpt: ""
 layout: post
 permalink: >
@@ -36,7 +36,7 @@ In addition, many companies have moved from functional mainframe legacy systems 
 
 <strong>Main Types of Information System includes</strong>
 
-<img class="alignnone  wp-image-477" src="https://datasagar.com/wp-content/uploads/2018/02/foundation-of-information-system-in-business-35-728-300x225.jpg" alt="" width="432" height="324" />
+<img class="alignnone wp-image-477" src="https://datasagar.com/wp-content/uploads/2018/02/foundation-of-information-system-in-business-35-728-300x225.jpg" alt="" width="432" height="324" />
 
 You may be interested in detailed article on Marketing Information System(MkIS) <a href="https://datasagar.com/2018/02/14/marketing-information-systemmkis-definition-components-and-applications/">here</a>.
 
