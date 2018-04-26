@@ -1,7 +1,7 @@
 ---
 ID: 492
 post_title: 'Marketing Information System(MkIS) &#8211; Definition, Components and Applications'
-author: datasagar
+author: Sagar Pyakurel
 post_excerpt: ""
 layout: post
 permalink: >
