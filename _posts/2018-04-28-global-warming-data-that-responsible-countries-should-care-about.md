@@ -19,7 +19,7 @@ According to most recent data, 20 countries that emitted the most carbon dioxide
 
 <img class="alignnone size-full wp-image-515" src="https://datasagar.com/wp-content/uploads/2018/04/data_co2emission.png" alt="" width="810" height="1127" />
 
-<img class="alignnone  wp-image-516" src="https://datasagar.com/wp-content/uploads/2018/04/gw-graphic-pie-chart-co2-emissions-by-country-2015.png" alt="" width="808" height="616" />
+<img class="alignnone wp-image-516" src="https://datasagar.com/wp-content/uploads/2018/04/gw-graphic-pie-chart-co2-emissions-by-country-2015.png" alt="" width="808" height="616" />
 
 It's time to be responsible and save future generation !
 
